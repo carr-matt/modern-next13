@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/mcarr/projects/modern-next13/app/page":["/Users/mcarr/projects/modern-next13/styles/globals.css"]},"/Users/mcarr/projects/modern-next13/app/layout.js":["/Users/mcarr/projects/modern-next13/styles/globals.css"]}
